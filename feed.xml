@@ -1,0 +1,15 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Leon's blog</title>
+  <link>https://leonokida.github.io/my-blog/</link>
+  <description>Home page</description>
+  <item>
+    <title>My first post!</title>
+    <link>https://leonokida.github.io/my-blog/2020/09/25/first-post.html</link>
+    <description>Posted on 09/25/2020</description>
+  </item>
+</channel>
+
+</rss> 

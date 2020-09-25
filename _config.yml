@@ -1,0 +1,11 @@
+title: Leon's blog
+author: Leon Okida
+email: le0n0kida@gmail.com
+theme: minima
+description: > # this means to ignore newlines until "baseurl:"
+  Leon's blog!
+# social links
+twitter_username: LeonOkGonk
+github_username:  leonokida
+
+show_excerpts: true

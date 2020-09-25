@@ -8,4 +8,4 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: LeonOkGonk
 github_username:  leonokida
 
-show_excerpts: true
+show_excerpts: false

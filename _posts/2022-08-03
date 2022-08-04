@@ -1,0 +1,17 @@
+---
+layout: post
+date: 2022-08-03
+title:  "July update!"
+---
+
+# Welcome to my blog
+
+Hi, how are you doing?  
+Today, I wanted to talk about GraphQL and my experience with it!  
+I found it very easy to learn and use. It's very easy to set up the typeDefs and resolvers to make queries and, when combined with ORMs like Prisma, it makes it way easier than creating routes and DBHandlers on Express.  
+Also, I found it amusing that all calls to the API are POST requisitions, even when we're getting data from the server! It's really different and can be confusing, but at the same time it makes things simpler!  
+The requisitions are made by simply sending strings in JSON to the API, which transforms it in GraphQL calls! It makes it all really simple.  
+I was able to configure a little CRUD system for a C3SL project I'm working on very quickly! You can read more about Graphql [here](https://www.apollographql.com/docs/apollo-server/getting-started/)!  
+The only problem we're facing now is about connecting the ApolloServer hosted on localhost to our front-end application, for testing. We weren't able to do that yet :(  
+Now, I'm studying about JWT, which is a form of authentication using tokens. It seems very interesting!  
+Well, that's all I got to talk about today! Thanks for reading it and please feel free to contact me if you want to! :)
